@@ -1,0 +1,200 @@
+[
+  {
+    "id": "0",
+    "name": "愚者 (The Fool)",
+    "description": "愚者代表新的開始、冒險、純真和自發性。他站在懸崖邊，無所畏懼地準備踏入未知的世界。",
+    "upright": "新的開始、純真、自發性、自由精神、冒險",
+    "reversed": "魯莽、冒險、不負責任、猶豫不決",
+    "element": "風",
+    "numeral": "0"
+  },
+  {
+    "id": "1",
+    "name": "魔術師 (The Magician)",
+    "description": "魔術師擁有將夢想化為現實的力量。他代表創造力、意志力和專注力。",
+    "upright": "表現力、創造力、意志力、技能、專注",
+    "reversed": "操縱、規劃不周、潛能未展、缺乏專注",
+    "element": "風",
+    "numeral": "I"
+  },
+  {
+    "id": "2",
+    "name": "女祭司 (The High Priestess)",
+    "description": "女祭司象徵直覺、潛意識和神秘的內在知識。她坐在一層薄紗前，守護著未知的秘密。",
+    "upright": "直覺、潛意識、內在聲音、神秘、神聖知識",
+    "reversed": "隱藏的動機、膚淺、忽視直覺、秘密被揭露",
+    "element": "水",
+    "numeral": "II"
+  },
+  {
+    "id": "3",
+    "name": "皇后 (The Empress)",
+    "description": "皇后是豐饒、母性和自然的化身。她代表著愛、美麗、創造力和豐富的資源。",
+    "upright": "母性、豐饒、自然、創造力、美麗、豐富",
+    "reversed": "依賴、創意受阻、忽視自身需求、空虛",
+    "element": "土",
+    "numeral": "III"
+  },
+  {
+    "id": "4",
+    "name": "皇帝 (The Emperor)",
+    "description": "皇帝象徵權威、結構和秩序。他是一個穩定的力量，代表邏輯、紀律和領導力。",
+    "upright": "權威、結構、控制、父親形象、領導力、秩序",
+    "reversed": "專制、僵化、缺乏紀律、濫用權力",
+    "element": "火",
+    "numeral": "IV"
+  },
+  {
+    "id": "5",
+    "name": "教皇 (The Hierophant)",
+    "description": "教皇代表傳統、信仰體系和精神傳承。他象徵著符合社會規範和尋求精神指引。",
+    "upright": "傳統、信仰、精神導師、社會規範、教育",
+    "reversed": "叛逆、打破常規、限制、盲目服從",
+    "element": "土",
+    "numeral": "V"
+  },
+  {
+    "id": "6",
+    "name": "戀人 (The Lovers)",
+    "description": "戀人代表愛情、和諧和選擇。它象徵著深刻的連結和重要的價值觀抉擇。",
+    "upright": "愛情、和諧、關係、價值觀的一致、選擇",
+    "reversed": "不和諧、不平衡、錯誤的選擇、關係破裂",
+    "element": "風",
+    "numeral": "VI"
+  },
+  {
+    "id": "7",
+    "name": "戰車 (The Chariot)",
+    "description": "戰車象徵著決心、控制和勝利。它代表克服困難並透過意志力達成目標。",
+    "upright": "勝利、決心、控制、意志力、克服障礙",
+    "reversed": "失去控制、缺乏方向、攻擊性、受阻",
+    "element": "水",
+    "numeral": "VII"
+  },
+  {
+    "id": "8",
+    "name": "力量 (Strength)",
+    "description": "力量代表內在的勇氣、耐心和同情心。它象徵著以溫柔和堅定的方式克服原始的本能。",
+    "upright": "勇氣、耐心、同情心、內在力量、溫柔的控制",
+    "reversed": "自我懷疑、軟弱、缺乏自信、情緒失控",
+    "element": "火",
+    "numeral": "VIII"
+  },
+  {
+    "id": "9",
+    "name": "隱士 (The Hermit)",
+    "description": "隱士象徵內省、尋求真理 and 精神指引。他代表著退出喧囂，向內尋找智慧。",
+    "upright": "內省、尋求真理、精神指引、孤獨、智慧",
+    "reversed": "孤立、過度封閉、拒絕幫助、迷失方向",
+    "element": "土",
+    "numeral": "IX"
+  },
+  {
+    "id": "10",
+    "name": "命運之輪 (Wheel of Fortune)",
+    "description": "命運之輪代表生命的循環、變化和命運。它象徵著好運、轉折點和無法控制的外部力量。",
+    "upright": "好運、命運、轉折點、生命的循環、不可預測的變化",
+    "reversed": "厄運、抵抗改變、失去控制、倒霉",
+    "element": "火",
+    "numeral": "X"
+  },
+  {
+    "id": "11",
+    "name": "正義 (Justice)",
+    "description": "正義代表公平、真理和法律。它象徵著客觀的判斷和行為的後果。",
+    "upright": "公平、真理、法律、客觀、因果報應",
+    "reversed": "不公平、偏見、不誠實、逃避責任",
+    "element": "風",
+    "numeral": "XI"
+  },
+  {
+    "id": "12",
+    "name": "倒吊人 (The Hanged Man)",
+    "description": "倒吊人象徵犧牲、暫停和新的視角。它代表著放下控制，以不同的方式看待事物。",
+    "upright": "犧牲、暫停、新的視角、放手、等待",
+    "reversed": "拖延、無謂的犧牲、停滯不前、抗拒改變",
+    "element": "水",
+    "numeral": "XII"
+  },
+  {
+    "id": "13",
+    "name": "死神 (Death)",
+    "description": "死神代表結束、轉變和重生。它象徵著舊事物的消亡，為新事物的到來騰出空間。",
+    "upright": "結束、轉變、重生、放手、過渡",
+    "reversed": "害怕改變、停滯、無法放手、抵抗轉變",
+    "element": "水",
+    "numeral": "XIII"
+  },
+  {
+    "id": "14",
+    "name": "節制 (Temperance)",
+    "description": "節制象徵平衡、和諧和適度。它代表著混合不同的元素，找到中庸之道。",
+    "upright": "平衡、和諧、適度、耐心、融合",
+    "reversed": "極端、失衡、缺乏耐心、衝突",
+    "element": "火",
+    "numeral": "XIV"
+  },
+  {
+    "id": "15",
+    "name": "惡魔 (The Devil)",
+    "description": "惡魔代表束縛、物質主義和成癮。它象徵著被恐懼或慾望所困，失去自由。",
+    "upright": "束縛、物質主義、成癮、限制、陰暗面",
+    "reversed": "重獲自由、擺脫束縛、克服成癮、恢復力量",
+    "element": "土",
+    "numeral": "XV"
+  },
+  {
+    "id": "16",
+    "name": "高塔 (The Tower)",
+    "description": "高塔象徵突如其來的變化、破壞和啟示。它代表著建立在虛假基礎上的事物崩塌。",
+    "upright": "突如其來的變化、破壞、啟示、混亂、覺醒",
+    "reversed": "避免災難、害怕改變、推遲不可避免的破壞",
+    "element": "火",
+    "numeral": "XVI"
+  },
+  {
+    "id": "17",
+    "name": "星星 (The Star)",
+    "description": "星星代表希望、靈感和精神指引。它象徵著在黑暗中找到光明，恢復信心。",
+    "upright": "希望、靈感、精神指引、平靜、信念",
+    "reversed": "絕望、失去信念、缺乏靈感、悲觀",
+    "element": "風",
+    "numeral": "XVII"
+  },
+  {
+    "id": "18",
+    "name": "月亮 (The Moon)",
+    "description": "月亮象徵幻覺、恐懼和潛意識。它代表著隱藏的真相和直覺的迷惘。",
+    "upright": "幻覺、恐懼、潛意識、直覺、困惑",
+    "reversed": "克服恐懼、揭露真相、釋放焦慮、清晰",
+    "element": "水",
+    "numeral": "XVIII"
+  },
+  {
+    "id": "19",
+    "name": "太陽 (The Sun)",
+    "description": "太陽代表快樂、成功和生命力。它象徵著光明、積極和成就。",
+    "upright": "快樂、成功、生命力、積極、活力",
+    "reversed": "暫時的沮喪、缺乏成功、悲觀、過度樂觀",
+    "element": "火",
+    "numeral": "XIX"
+  },
+  {
+    "id": "20",
+    "name": "審判 (Judgement)",
+    "description": "審判象徵重生、內在呼喚和寬恕。它代表著反思過去，迎接新的開始。",
+    "upright": "重生、內在呼喚、寬恕、反思、覺醒",
+    "reversed": "自我懷疑、拒絕改變、內疚、忽視呼喚",
+    "element": "火",
+    "numeral": "XX"
+  },
+  {
+    "id": "21",
+    "name": "世界 (The World)",
+    "description": "世界代表完成、整合和旅行。它象徵著一個週期的結束和另一個週期的開始。",
+    "upright": "完成、整合、旅行、成就、整體",
+    "reversed": "未完成、缺乏封閉、延遲、停滯",
+    "element": "土",
+    "numeral": "XXI"
+  }
+]
