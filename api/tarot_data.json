@@ -83,7 +83,7 @@
   {
     "id": "9",
     "name": "隱士 (The Hermit)",
-    "description": "隱士象徵內省、尋求真理 and 精神指引。他代表著退出喧囂，向內尋找智慧。",
+    "description": "隱士象徵內省、尋求真理和精神指引。他代表著退出喧囂，向內尋找智慧。",
     "upright": "內省、尋求真理、精神指引、孤獨、智慧",
     "reversed": "孤立、過度封閉、拒絕幫助、迷失方向",
     "element": "土",
@@ -196,5 +196,509 @@
     "reversed": "未完成、缺乏封閉、延遲、停滯",
     "element": "土",
     "numeral": "XXI"
+  },
+  {
+    "id": "22",
+    "name": "權杖王牌 (Ace of Wands)",
+    "description": "權杖王牌象徵創造力、靈感和新計畫的誕生。一隻手從雲端伸出，握著一根充滿生機的權杖。",
+    "upright": "靈感、新機會、創造力、潛力、熱情",
+    "reversed": "創意受阻、缺乏動力、延誤、計畫失敗",
+    "element": "火",
+    "numeral": "Ace"
+  },
+  {
+    "id": "23",
+    "name": "權杖二 (Two of Wands)",
+    "description": "權杖二代表計畫、未來展望和個人力量。一個人站在城堡上，手持地球儀，眺望遠方。",
+    "upright": "計畫、未來展望、個人力量、探索、決策",
+    "reversed": "缺乏計畫、恐懼未知、猶豫不決、受限",
+    "element": "火",
+    "numeral": "II"
+  },
+  {
+    "id": "24",
+    "name": "權杖三 (Three of Wands)",
+    "description": "權杖三代表擴展、前瞻和等待結果。一個人站在懸崖上，看著遠方的船隻歸來。",
+    "upright": "擴展、前瞻、領導力、貿易、等待成果",
+    "reversed": "延遲、障礙、缺乏遠見、計畫受挫",
+    "element": "火",
+    "numeral": "III"
+  },
+  {
+    "id": "25",
+    "name": "權杖四 (Four of Wands)",
+    "description": "權杖四象徵慶祝、和諧和家庭的喜悅。四根權杖搭成一個拱門，人們在下方歡慶。",
+    "upright": "慶祝、和諧、家庭、穩定、里程碑",
+    "reversed": "缺乏和諧、家庭紛爭、不穩定、延遲慶祝",
+    "element": "火",
+    "numeral": "IV"
+  },
+  {
+    "id": "26",
+    "name": "權杖五 (Five of Wands)",
+    "description": "權杖五代表衝突、競爭和混亂。五個人各持權杖互相交錯，象徵著意見不合。",
+    "upright": "衝突、競爭、分歧、挑戰、混亂",
+    "reversed": "避免衝突、達成協議、內在衝突、壓制競爭",
+    "element": "火",
+    "numeral": "V"
+  },
+  {
+    "id": "27",
+    "name": "權杖六 (Six of Wands)",
+    "description": "權杖六象徵勝利、公眾認可和成功。一個騎士戴著桂冠，在人群的歡呼中凱旋而歸。",
+    "upright": "勝利、公眾認可、成功、自信、領導",
+    "reversed": "缺乏認可、私下成功、傲慢、失敗",
+    "element": "火",
+    "numeral": "VI"
+  },
+  {
+    "id": "28",
+    "name": "權杖七 (Seven of Wands)",
+    "description": "權杖七代表防禦、堅持立場和挑戰。一個人站在高處，用權杖抵擋從下方伸來的六根權杖。",
+    "upright": "防禦、堅持立場、挑戰、競爭優勢、毅力",
+    "reversed": "退縮、不堅定、不知所措、放棄陣地",
+    "element": "火",
+    "numeral": "VII"
+  },
+  {
+    "id": "29",
+    "name": "權杖八 (Eight of Wands)",
+    "description": "權杖八象徵迅速的行動、旅行和快速的發展。八根權杖在空中飛速穿越，代表事情快速推進。",
+    "upright": "迅速行動、旅行、進展快速、溝通、終點在望",
+    "reversed": "延誤、阻礙、缺乏方向、倉促行事",
+    "element": "火",
+    "numeral": "VIII"
+  },
+  {
+    "id": "30",
+    "name": "權杖九 (Nine of Wands)",
+    "description": "權杖九代表韌性、堅持和防禦。一個受傷的人靠著權杖站立，警惕地注視著周遭。",
+    "upright": "韌性、堅持、防禦、接近完成、保持警戒",
+    "reversed": "偏執、固執、不願妥協、精疲力竭",
+    "element": "火",
+    "numeral": "IX"
+  },
+  {
+    "id": "31",
+    "name": "權杖十 (Ten of Wands)",
+    "description": "權杖十象徵重擔、責任和壓力。一個人費力地扛著十根權杖，艱難地向前走。",
+    "upright": "重擔、責任、壓力、努力、過度承擔",
+    "reversed": "放下重擔、委派任務、解脫、尋求幫助",
+    "element": "火",
+    "numeral": "X"
+  },
+  {
+    "id": "32",
+    "name": "權杖侍從 (Page of Wands)",
+    "description": "權杖侍從代表探索、熱情和新想法。一個年輕人手持權杖，充滿好奇心地看著它。",
+    "upright": "探索、熱情、新想法、發現、潛力",
+    "reversed": "缺乏方向、草率、魯莽、創意受阻",
+    "element": "火",
+    "numeral": "Page"
+  },
+  {
+    "id": "33",
+    "name": "權杖騎士 (Knight of Wands)",
+    "description": "權杖騎士象徵能量、冒險和衝動。一個騎士騎著奔騰的馬，充滿活力地向前衝鋒。",
+    "upright": "能量、冒險、衝動、熱情、行動",
+    "reversed": "衝動、魯莽、缺乏耐心、爭強好勝",
+    "element": "火",
+    "numeral": "Knight"
+  },
+  {
+    "id": "34",
+    "name": "權杖王后 (Queen of Wands)",
+    "description": "權杖王后代表自信、獨立和充沛的活力。她坐在王座上，手持向日葵，展現出溫暖和領導力。",
+    "upright": "自信、獨立、活力、熱情、社交魅力",
+    "reversed": "自私、嫉妒、不安全感、依賴",
+    "element": "火",
+    "numeral": "Queen"
+  },
+  {
+    "id": "35",
+    "name": "權杖國王 (King of Wands)",
+    "description": "權杖國王象徵天生的領導力、遠見和魄力。他坐在王座上，象徵著成熟的火元素能量。",
+    "upright": "領導力、遠見、企業家精神、魄力、榮譽",
+    "reversed": "傲慢、衝動、獨裁、無情",
+    "element": "火",
+    "numeral": "King"
+  },
+  {
+    "id": "36",
+    "name": "聖杯王牌 (Ace of Cups)",
+    "description": "聖杯王牌象徵新的情感、直覺和靈性的開始。一隻手從雲端伸出，托著一個溢滿清水的聖杯。",
+    "upright": "新的愛情、情感的開始、直覺、靈性、創造力",
+    "reversed": "情感封閉、壓抑感受、空虛、缺乏直覺",
+    "element": "水",
+    "numeral": "Ace"
+  },
+  {
+    "id": "37",
+    "name": "聖杯二 (Two of Cups)",
+    "description": "聖杯二代表愛情、夥伴關係和相互吸引。兩個人面對面站立，交換聖杯，象徵情感的結合。",
+    "upright": "愛情、夥伴關係、相互吸引、結合、和諧",
+    "reversed": "關係破裂、不和諧、失衡、分離",
+    "element": "水",
+    "numeral": "II"
+  },
+  {
+    "id": "38",
+    "name": "聖杯三 (Three of Cups)",
+    "description": "聖杯三象徵慶祝、友誼和社群。三位女性舉杯慶祝，代表喜悅和共同的成就。",
+    "upright": "慶祝、友誼、社群、喜悅、合作",
+    "reversed": "過度放縱、八卦、孤立、社交衝突",
+    "element": "水",
+    "numeral": "III"
+  },
+  {
+    "id": "39",
+    "name": "聖杯四 (Four of Cups)",
+    "description": "聖杯四代表冥想、退縮和不滿足。一個人坐在樹下，對面前伸出的聖杯視而不見。",
+    "upright": "冥想、退縮、不滿足、重新評估、冷漠",
+    "reversed": "重新投入、抓住機會、走出孤立、接受新事物",
+    "element": "水",
+    "numeral": "IV"
+  },
+  {
+    "id": "40",
+    "name": "聖杯五 (Five of Cups)",
+    "description": "聖杯五象徵失落、悲傷和後悔。一個人悲傷地低頭看著倒下的三個杯子，沒有注意到身後還有兩個完好的杯子。",
+    "upright": "失落、悲傷、後悔、失望、專注於負面",
+    "reversed": "接受失落、繼續前進、寬恕、找到希望",
+    "element": "水",
+    "numeral": "V"
+  },
+  {
+    "id": "41",
+    "name": "聖杯六 (Six of Cups)",
+    "description": "聖杯六代表懷舊、童年和美好的回憶。一個孩子將裝滿花朵的杯子送給另一個孩子，象徵純真的給予。",
+    "upright": "懷舊、童年、美好回憶、純真、重逢",
+    "reversed": "執著於過去、不成熟、脫離現實、無聊",
+    "element": "水",
+    "numeral": "VI"
+  },
+  {
+    "id": "42",
+    "name": "聖杯七 (Seven of Cups)",
+    "description": "聖杯七象徵幻想、選擇和迷惑。一個人面對七個裝滿各種象徵物的杯子，難以抉擇。",
+    "upright": "幻想、選擇、迷惑、夢想、多種可能性",
+    "reversed": "清醒、做出選擇、面對現實、意志力",
+    "element": "水",
+    "numeral": "VII"
+  },
+  {
+    "id": "43",
+    "name": "聖杯八 (Eight of Cups)",
+    "description": "聖杯八代表離開、放棄和尋求更深的意義。一個人在夜晚轉身離去，留下八個整齊排列的杯子。",
+    "upright": "離開、放棄、尋求意義、轉身而去、追求更高目標",
+    "reversed": "猶豫不決、留守、恐懼未知、缺乏勇氣",
+    "element": "水",
+    "numeral": "VIII"
+  },
+  {
+    "id": "44",
+    "name": "聖杯九 (Nine of Cups)",
+    "description": "聖杯九象徵滿足、幸福和願望成真。一個滿足的人坐在九個整齊排列的聖杯前，象徵物質和情感的豐盛。",
+    "upright": "滿足、幸福、願望成真、豐盛、感恩",
+    "reversed": "不滿足、物質主義、過度放縱、自我放縱",
+    "element": "水",
+    "numeral": "IX"
+  },
+  {
+    "id": "45",
+    "name": "聖杯十 (Ten of Cups)",
+    "description": "聖杯十代表幸福家庭、情感圓滿和和諧。一對夫婦和孩子在彩虹下歡慶，象徵終極的情感幸福。",
+    "upright": "幸福家庭、情感圓滿、和諧、夢想成真、幸福",
+    "reversed": "家庭衝突、價值觀不合、破碎的夢想、不和諧",
+    "element": "水",
+    "numeral": "X"
+  },
+  {
+    "id": "46",
+    "name": "聖杯侍從 (Page of Cups)",
+    "description": "聖杯侍從象徵創意訊息、直覺和情感的探索。一個年輕人驚訝地看著從杯中探出頭來的魚。",
+    "upright": "創意訊息、直覺、情感探索、夢想、好奇",
+    "reversed": "情感不成熟、逃避現實、創意受阻、不切實際",
+    "element": "水",
+    "numeral": "Page"
+  },
+  {
+    "id": "47",
+    "name": "聖杯騎士 (Knight of Cups)",
+    "description": "聖杯騎士代表浪漫、魅力和情感的追求。一個騎士騎著白馬緩緩前行，手持聖杯，代表追求理想。",
+    "upright": "浪漫、魅力、情感追求、理想主義、創意",
+    "reversed": "情緒化、不切實際、嫉妒、善變",
+    "element": "水",
+    "numeral": "Knight"
+  },
+  {
+    "id": "48",
+    "name": "聖杯王后 (Queen of Cups)",
+    "description": "聖杯王后象徵情感的成熟、同情心和直覺。她坐在王座上，手持精美的聖杯，眼神溫柔而深邃。",
+    "upright": "情感成熟、同情心、直覺、關懷、靈性",
+    "reversed": "情緒不穩、過度敏感、依賴、不安全感",
+    "element": "水",
+    "numeral": "Queen"
+  },
+  {
+    "id": "49",
+    "name": "聖杯國王 (King of Cups)",
+    "description": "聖杯國王代表情感平衡、智慧和外交手腕。他坐在波濤中的王座上，保持冷靜，象徵對情緒的掌控。",
+    "upright": "情感平衡、智慧、外交、同情、冷靜",
+    "reversed": "情緒操縱、不穩定、壓抑感情、冷漠",
+    "element": "水",
+    "numeral": "King"
+  },
+  {
+    "id": "50",
+    "name": "寶劍王牌 (Ace of Swords)",
+    "description": "寶劍王牌象徵清晰的思維、突破和真理。一隻手從雲端伸出，握著一把閃耀的寶劍，劍尖指向天空。",
+    "upright": "清晰、突破、真理、智識、勝利",
+    "reversed": "混亂、缺乏清晰、謊言、失敗",
+    "element": "風",
+    "numeral": "Ace"
+  },
+  {
+    "id": "51",
+    "name": "寶劍二 (Two of Swords)",
+    "description": "寶劍二代表僵局、選擇困難和內心衝突。一個被蒙眼的人交叉雙臂持劍而坐，象徵拒絕面對現實。",
+    "upright": "僵局、選擇困難、內心衝突、拒絕面對、平衡",
+    "reversed": "做出決定、解除僵局、面對真相、資訊過載",
+    "element": "風",
+    "numeral": "II"
+  },
+  {
+    "id": "52",
+    "name": "寶劍三 (Three of Swords)",
+    "description": "寶劍三象徵心碎、悲傷和失落。一顆心被三把劍刺穿，在暴風雨中飄浮，代表情感上的痛苦。",
+    "upright": "心碎、悲傷、失落、痛苦、分離",
+    "reversed": "從悲傷中恢復、寬恕、釋懷、情緒療癒",
+    "element": "風",
+    "numeral": "III"
+  },
+  {
+    "id": "53",
+    "name": "寶劍四 (Four of Swords)",
+    "description": "寶劍四代表休息、恢復和冥想。一個騎士躺在石棺上休息，象徵暫時的退隱和需要靜養。",
+    "upright": "休息、恢復、冥想、靜養、暫時退隱",
+    "reversed": "恢復行動、重返戰場、過度疲勞、停滯不前",
+    "element": "風",
+    "numeral": "IV"
+  },
+  {
+    "id": "54",
+    "name": "寶劍五 (Five of Swords)",
+    "description": "寶劍五象徵衝突、失敗和不光彩的勝利。一個人收集落敗者的劍，而他的對手垂頭喪氣地離去。",
+    "upright": "衝突、失敗、不光彩的勝利、背叛、自私",
+    "reversed": "和解、放下衝突、承認失敗、尋求和平",
+    "element": "風",
+    "numeral": "V"
+  },
+  {
+    "id": "55",
+    "name": "寶劍六 (Six of Swords)",
+    "description": "寶劍六代表過渡、離開困境和前往更好的地方。一艘船載著乘客穿越平靜的水域，象徵從困難走向安寧。",
+    "upright": "過渡、離開困境、前行、恢復平靜、旅行",
+    "reversed": "抗拒改變、無法前行、舊傷未癒、動盪",
+    "element": "風",
+    "numeral": "VI"
+  },
+  {
+    "id": "56",
+    "name": "寶劍七 (Seven of Swords)",
+    "description": "寶劍七象徵欺騙、策略和逃避。一個人偷偷地帶走五把劍，留下兩把，代表狡猾的行為。",
+    "upright": "欺騙、策略、逃避、獨自行動、謹慎",
+    "reversed": "被揭穿、良心發現、回歸誠實、承認錯誤",
+    "element": "風",
+    "numeral": "VII"
+  },
+  {
+    "id": "57",
+    "name": "寶劍八 (Eight of Swords)",
+    "description": "寶劍八代表束縛、限制和自我設限。一個被捆綁和蒙眼的人被八把劍圍繞，象徵感到被困卻其實可以自由。",
+    "upright": "束縛、限制、自我設限、恐懼、無力感",
+    "reversed": "重獲自由、打破限制、面對恐懼、解放",
+    "element": "風",
+    "numeral": "VIII"
+  },
+  {
+    "id": "58",
+    "name": "寶劍九 (Nine of Swords)",
+    "description": "寶劍九象徵焦慮、噩夢和最深的恐懼。一個人在夜晚坐起，雙手掩面，牆上掛著九把劍，代表心理上的痛苦。",
+    "upright": "焦慮、噩夢、恐懼、擔憂、內疚",
+    "reversed": "從焦慮中走出、尋求幫助、面對恐懼、希望",
+    "element": "風",
+    "numeral": "IX"
+  },
+  {
+    "id": "59",
+    "name": "寶劍十 (Ten of Swords)",
+    "description": "寶劍十代表痛苦的結束、背叛和觸底反彈。一個人倒在地上，背部插著十把劍，但黎明的曙光即將來臨。",
+    "upright": "痛苦的結束、背叛、觸底反彈、失敗、危機",
+    "reversed": "從失敗中恢復、拒絕倒下、重生、抗拒結局",
+    "element": "風",
+    "numeral": "X"
+  },
+  {
+    "id": "60",
+    "name": "寶劍侍從 (Page of Swords)",
+    "description": "寶劍侍從象徵好奇心、警覺和新的想法。一個年輕人手持寶劍，在風中保持警戒，充滿求知慾。",
+    "upright": "好奇心、警覺、新想法、溝通、直率",
+    "reversed": "八卦、魯莽、說謊、缺乏計畫",
+    "element": "風",
+    "numeral": "Page"
+  },
+  {
+    "id": "61",
+    "name": "寶劍騎士 (Knight of Swords)",
+    "description": "寶劍騎士代表雄心、行動力和直接。一個騎士騎著飛奔的馬，手持寶劍衝鋒陷陣，代表快速的行動。",
+    "upright": "雄心、行動力、直接、勇敢、果斷",
+    "reversed": "魯莽、衝動、殘忍、缺乏方向",
+    "element": "風",
+    "numeral": "Knight"
+  },
+  {
+    "id": "62",
+    "name": "寶劍王后 (Queen of Swords)",
+    "description": "寶劍王后象徵獨立、清晰的思維和直接的溝通。她坐在高處，手持寶劍，以清醒的眼光看待世界。",
+    "upright": "獨立、清晰思維、直接、誠實、智慧",
+    "reversed": "冷酷、苦澀、過度批判、孤立",
+    "element": "風",
+    "numeral": "Queen"
+  },
+  {
+    "id": "63",
+    "name": "寶劍國王 (King of Swords)",
+    "description": "寶劍國王代表智識權威、清晰的判斷和道德標準。他坐在王座上，手持寶劍，象徵公正和理性的統治。",
+    "upright": "智識權威、清晰判斷、道德、公正、分析力",
+    "reversed": "獨裁、操縱、殘酷、濫用權力",
+    "element": "風",
+    "numeral": "King"
+  },
+  {
+    "id": "64",
+    "name": "錢幣王牌 (Ace of Pentacles)",
+    "description": "錢幣王牌象徵新的物質機會、繁榮和財富的開始。一隻手從雲端伸出，托著一枚閃耀的金幣。",
+    "upright": "新的物質機會、繁榮、財富、穩定、實際",
+    "reversed": "失去機會、財務問題、缺乏計畫、不穩定",
+    "element": "土",
+    "numeral": "Ace"
+  },
+  {
+    "id": "65",
+    "name": "錢幣二 (Two of Pentacles)",
+    "description": "錢幣二代表平衡、適應和時間管理。一個人在海浪中保持平衡，同時玩耍著兩枚錢幣。",
+    "upright": "平衡、適應、時間管理、靈活、優先順序",
+    "reversed": "失去平衡、財務困難、不知所措、混亂",
+    "element": "土",
+    "numeral": "II"
+  },
+  {
+    "id": "66",
+    "name": "錢幣三 (Three of Pentacles)",
+    "description": "錢幣三象徵團隊合作、學習和技能的精進。一個工匠在教堂中工作，與他人合作完成精緻的作品。",
+    "upright": "團隊合作、學習、技能精進、合作、認可",
+    "reversed": "缺乏團隊精神、工作品質差、不學無術、衝突",
+    "element": "土",
+    "numeral": "III"
+  },
+  {
+    "id": "67",
+    "name": "錢幣四 (Four of Pentacles)",
+    "description": "錢幣四代表節儉、控制和對財物的執著。一個人緊緊抱住四枚錢幣，象徵對財富的守護和吝嗇。",
+    "upright": "節儉、控制、安全感、財富保護、吝嗇",
+    "reversed": "慷慨、放下執著、財務不穩、損失",
+    "element": "土",
+    "numeral": "IV"
+  },
+  {
+    "id": "68",
+    "name": "錢幣五 (Five of Pentacles)",
+    "description": "錢幣五象徵財務困難、貧困和被遺忘。兩個衣衫襤褸的人在雪中走過一扇明亮的教堂窗戶，象徵物質上的匱乏。",
+    "upright": "財務困難、貧困、被遺忘、健康問題、孤立",
+    "reversed": "從困難中恢復、財務改善、接受幫助、找到出路",
+    "element": "土",
+    "numeral": "V"
+  },
+  {
+    "id": "69",
+    "name": "錢幣六 (Six of Pentacles)",
+    "description": "錢幣六代表慷慨、給予和接受。一個富人將錢幣分給窮人，象徵財富的流動和平衡的給予。",
+    "upright": "慷慨、給予、接受、平衡、分享財富",
+    "reversed": "自私、債務、權力不平衡、有條件的給予",
+    "element": "土",
+    "numeral": "VI"
+  },
+  {
+    "id": "70",
+    "name": "錢幣七 (Seven of Pentacles)",
+    "description": "錢幣七象徵耐心、投資和長期規劃。一個農夫靠著鋤頭，審視著他辛勤耕耘的成果，思考未來的收穫。",
+    "upright": "耐心、投資、長期規劃、評估、等待收穫",
+    "reversed": "缺乏耐心、回報不足、錯誤投資、急於求成",
+    "element": "土",
+    "numeral": "VII"
+  },
+  {
+    "id": "71",
+    "name": "錢幣八 (Eight of Pentacles)",
+    "description": "錢幣八代表勤奮、技能發展和專注。一個工匠專注地雕刻錢幣，象徵對技藝的精進和努力工作。",
+    "upright": "勤奮、技能發展、專注、學徒精神、精益求精",
+    "reversed": "缺乏專注、完美主義、缺乏技能、偷工減料",
+    "element": "土",
+    "numeral": "VIII"
+  },
+  {
+    "id": "72",
+    "name": "錢幣九 (Nine of Pentacles)",
+    "description": "錢幣九象徵財務獨立、優雅和自給自足。一位優雅的女性站在豐盛的花園中，代表透過努力獲得的豐裕。",
+    "upright": "財務獨立、優雅、自給自足、豐裕、成就",
+    "reversed": "財務依賴、過度揮霍、虛偽、工作與生活失衡",
+    "element": "土",
+    "numeral": "IX"
+  },
+  {
+    "id": "73",
+    "name": "錢幣十 (Ten of Pentacles)",
+    "description": "錢幣十代表財富、遺產和家族傳承。一個大家庭聚在一起，象徵長久的繁榮和代代相傳的財富。",
+    "upright": "財富、遺產、家族傳承、穩定、長久繁榮",
+    "reversed": "家族衝突、財務失敗、失去遺產、不穩定",
+    "element": "土",
+    "numeral": "X"
+  },
+  {
+    "id": "74",
+    "name": "錢幣侍從 (Page of Pentacles)",
+    "description": "錢幣侍從象徵新的機會、學習和實際的夢想。一個年輕人凝視著手中的錢幣，充滿對未來的憧憬。",
+    "upright": "新機會、學習、實際夢想、努力、潛力",
+    "reversed": "缺乏進取心、不切實際、學業問題、浪費機會",
+    "element": "土",
+    "numeral": "Page"
+  },
+  {
+    "id": "75",
+    "name": "錢幣騎士 (Knight of Pentacles)",
+    "description": "錢幣騎士代表努力、責任和謹慎。一個騎士騎著靜止的馬，仔細審視手中的錢幣，象徵穩健的行動。",
+    "upright": "努力、責任、謹慎、可靠、堅持不懈",
+    "reversed": "懶惰、固執、無聊、過於謹慎",
+    "element": "土",
+    "numeral": "Knight"
+  },
+  {
+    "id": "76",
+    "name": "錢幣王后 (Queen of Pentacles)",
+    "description": "錢幣王后象徵實際、養育和財務安全。她坐在花園的王座上，懷抱著錢幣，象徵豐盛和對家庭的照顧。",
+    "upright": "實際、養育、財務安全、慷慨、腳踏實地",
+    "reversed": "自我放縱、財務不安全、過度保護、缺乏平衡",
+    "element": "土",
+    "numeral": "Queen"
+  },
+  {
+    "id": "77",
+    "name": "錢幣國王 (King of Pentacles)",
+    "description": "錢幣國王代表財富、商業頭腦和物質成功。他坐在裝飾著葡萄藤的王座上，象徵透過努力和智慧積累的財富。",
+    "upright": "財富、商業頭腦、物質成功、可靠、領導",
+    "reversed": "固執、物質主義、財務失敗、腐敗",
+    "element": "土",
+    "numeral": "King"
   }
 ]
