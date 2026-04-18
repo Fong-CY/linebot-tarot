@@ -27,7 +27,7 @@ handler = WebhookHandler(os.getenv('LINE_CHANNEL_SECRET'))
 def load_tarot_data():
     current_dir = os.path.dirname(os.path.abspath(__file__))
     # index.py 在 /api/ 資料夾內，tarot_data.json 在上一層根目錄
-    json_path = os.path.join(current_dir, '..', 'tarot_data.json')
+    json_path = os.path.join(current_dir, 'tarot_data.json')
     with open(json_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
