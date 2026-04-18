@@ -26,7 +26,8 @@ handler = WebhookHandler(os.getenv('LINE_CHANNEL_SECRET'))
 # 讀取塔羅牌資料 (使用相對路徑)
 def load_tarot_data():
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    json_path = os.path.join(current_dir, 'tarot_data.json')
+    # index.py 在 /api/ 資料夾內，tarot_data.json 在上一層根目錄
+    json_path = os.path.join(current_dir, '..', 'tarot_data.json')
     with open(json_path, 'r', encoding='utf-8') as f:
         return json.load(f)
 
